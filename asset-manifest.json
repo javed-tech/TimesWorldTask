@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TimesWorldTask/static/css/main.0c149f56.chunk.css",
+    "main.js": "/TimesWorldTask/static/js/main.ac8ae8ef.chunk.js",
+    "main.js.map": "/TimesWorldTask/static/js/main.ac8ae8ef.chunk.js.map",
+    "runtime-main.js": "/TimesWorldTask/static/js/runtime-main.58cba03a.js",
+    "runtime-main.js.map": "/TimesWorldTask/static/js/runtime-main.58cba03a.js.map",
+    "static/js/2.b951b79e.chunk.js": "/TimesWorldTask/static/js/2.b951b79e.chunk.js",
+    "static/js/2.b951b79e.chunk.js.map": "/TimesWorldTask/static/js/2.b951b79e.chunk.js.map",
+    "static/js/3.2e3279cf.chunk.js": "/TimesWorldTask/static/js/3.2e3279cf.chunk.js",
+    "static/js/3.2e3279cf.chunk.js.map": "/TimesWorldTask/static/js/3.2e3279cf.chunk.js.map",
+    "index.html": "/TimesWorldTask/index.html",
+    "static/css/main.0c149f56.chunk.css.map": "/TimesWorldTask/static/css/main.0c149f56.chunk.css.map",
+    "static/js/2.b951b79e.chunk.js.LICENSE.txt": "/TimesWorldTask/static/js/2.b951b79e.chunk.js.LICENSE.txt",
+    "static/media/loginKey.cce8d57b.png": "/TimesWorldTask/static/media/loginKey.cce8d57b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58cba03a.js",
+    "static/js/2.b951b79e.chunk.js",
+    "static/css/main.0c149f56.chunk.css",
+    "static/js/main.ac8ae8ef.chunk.js"
+  ]
+}
